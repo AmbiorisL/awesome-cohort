@@ -15,13 +15,15 @@ Awesome stuff for the cohort. Mostly useful links and any other resources we'd l
 ## Software requirements
 
 ### Need
+
 - [Node.js](https://nodejs.org/en/) (with npm!)
 - [npm](https://www.npmjs.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Git](https://git-scm.com/) 
+- [Git](https://git-scm.com/)
 - mySql
 
 ### Nice to have
+
 - [Postman](https://www.postman.com/)
 
 ### Visual Studio Code extensions
@@ -40,20 +42,20 @@ Awesome stuff for the cohort. Mostly useful links and any other resources we'd l
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-
 ## git/GitHub
+
 - [Awesome git](https://github.com/dictcp/awesome-git)
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
-- [GitHub Flow](https://guides.github.com/introduction/flow/): A suggested guide to start helping you plan your git and GitHub management. 
+- [GitHub Flow](https://guides.github.com/introduction/flow/): A suggested guide to start helping you plan your git and GitHub management.
 - [Other git workflows](https://buddy.works/blog/5-types-of-git-workflows)
 - [Old school Git Flow](https://nvie.com/posts/a-successful-git-branching-model/): Don't forget to read the important note!
 - [Working with forks](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks)
-- [GitHub Forking](https://gist.github.com/Chaser324/ce0505fbed06b947d962): The first three sections are great, after 'Submitting a Pull Request' it's too complicated and a bit out of date. 
 - [Creating a pull request from a fork](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 - [GitHub Actions](https://docs.github.com/en/actions)
 - [Migrating from Jenkins to GitHub Actions](https://docs.github.com/en/actions/migrating-to-github-actions/migrating-from-jenkins-to-github-actions)
 
 ## Visual Studio Code
+
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Visual Studio Code for Software Development](https://app.pluralsight.com/guides/visual-studio-code-for-software-development)
 - [Visual Studio Code for Node.js Development](https://app.pluralsight.com/guides/visual-studio-code-for-node.js-development)
@@ -65,6 +67,7 @@ Awesome stuff for the cohort. Mostly useful links and any other resources we'd l
 ### Awesome
 
 (Note that some awesomes are under their respective headings)
+
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome npm](https://github.com/sindresorhus/awesome-npm)
@@ -88,6 +91,7 @@ Awesome stuff for the cohort. Mostly useful links and any other resources we'd l
 - [TodoMVC](https://todomvc.com/): Compare different view libraries and frameworks against vanilla JavaScript
 
 ### Document Object Model (DOM API)
+
 - [Document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
 - [Node](https://developer.mozilla.org/en-US/docs/Web/API/Node)
 - [Element](https://developer.mozilla.org/en-US/docs/Web/API/Element)
@@ -98,31 +102,37 @@ Awesome stuff for the cohort. Mostly useful links and any other resources we'd l
 - [classList API](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList): Manipulates CSS classes with JavaScript
 
 ### Fetch
+
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [fetch()](https://developer.mozilla.org/en-US/docs/Web/API/fetch)
 
 ### Promises
+
 - [Promises at MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Promise terminology](https://stackoverflow.com/a/56850392)
 
 ### Regular Expressions
+
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex)
 - [Regex Cheat Sheet](https://remram44.github.io/regex-cheatsheet/regex.html)
-- [I Hate Regex](https://ihateregex.io/): Look up regular expressions for common data types like usernames, SSNs, phone numbers, etc. 
+- [I Hate Regex](https://ihateregex.io/): Look up regular expressions for common data types like usernames, SSNs, phone numbers, etc.
 - [Verbal Expressions](https://github.com/VerbalExpressions/JSVerbalExpressions): JavaScript library for writing RegExps in English
 
 ## CSS
 
 ### Libraries
+
 - [Bootstrap](https://getbootstrap.com/docs) Version 4 also available
 - [Tachyons](https://tachyons.io/)
 
 ### Reference
+
 - [MDN on CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Can I use](https://caniuse.com/): Can I use a CSS/HTML/JS feature? 
+- [Can I use](https://caniuse.com/): Can I use a CSS/HTML/JS feature?
 - [CSS Tricks](https://css-tricks.com/)
 
 ### Cool sites
+
 - [CSS Zen Garden](http://www.csszengarden.com/221/): Examples of what you can do in CSS
 - [Yamauchi No. 10](https://y-n10.com/)
 - [FPS CSS](https://keithclark.co.uk/labs/css-fps/)
